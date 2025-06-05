@@ -2,26 +2,18 @@
 
  /* Estilo geral */
 body {
-
-
-
-
 font-family: Arial, sans-serif;
 margin: 0;
 background-color: #f4f4f4;
 color: #333;
- header {
- background-color: #15cb31;
+}
 
- }
-
-
-
+header {
+background-color: #15cb31;
 color: white;
 text-align: center;
 padding: 1.5rem 1rem;
-<
-go parte 2 pov
+
 }
  header h1 {
 
@@ -53,10 +45,6 @@ justify-content: center;
 }
 
 .curiosidade-card {
-
-
-
-
 background-color: white;
 border-radius: 8px;
 box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -110,7 +98,7 @@ body {
 font-family: Arial, sans-serif;
 line-height: 1.6; 
 background-color:#f5f5f5;
-color：口#333；
+color:#333
 }
 header {
 background-color:#222;
@@ -140,4 +128,5 @@ display: flex;
 align-items: center;
 justify-content: center;
 color:white;
-text-shadow: 2px 2px 4px [black
+text-shadow: 2px 2px 4px [black]
+}
